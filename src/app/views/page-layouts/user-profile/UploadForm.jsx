@@ -61,22 +61,17 @@ export default function UploadForm({ open, handleClose }) {
     );
 }
 
-const initialValues = {
-    customerType: '',
-    otherField: 'Adjustment',
-}
-
 const ProjectData = [
     {
         location: 'Google',
         title: 'Personal Website',
-        img: '/assets/images/illustrations/project1.png',
+        img: '/assets/images/project/project1.png',
         description: 'Upgraded automation department’s website with new features of listing their products and adding customer reviews using PHP.Added the functionality of monitoring the conditions of manufacturing machines in production on the department’s website. Designed and built a website to introduce the automation department’s functionality, and created a content management web with Vue framework and Node.JS for this web to enable CRUD operations without explicitly changing the MySQL database.'
     },
     {
         location: 'Twitter',
         title: 'Culture',
-        img: '/assets/images/illustrations/project4.png',
+        img: '/assets/images/project/project4.png',
         description: 'Collaborated in a team and built a scientific website that shows information related to the bionic vision with React framework.Decreased team’s development time and removed repetitive code by building customizable and reusable components.Incorporated email notifications when users submit forms and added reCAPTCHA to prevent bots from submitting forms.Designed database schema, managed platform data in MongoDB, and connected to the backend server with Mongoose.'
     }
 ]

@@ -79,7 +79,7 @@ export default function ProjectContent() {
                                 <H5 >
                                     {project.title}
                                 </H5>
-                                <a href="https://andrew-liu.co/" target="_blank">
+                                <a href="https://andrew-liu.co/" target="_blank" rel="noreferrer">
                                     <IconButton aria-label="share" size="small">
                                         <ShareIcon />
                                     </IconButton>
@@ -113,18 +113,18 @@ export default function ProjectContent() {
 const projectList = [
     {
         title: 'Portfolio',
-        img: '/assets/images/illustrations/project1.png'
+        img: '/assets/images/project/project1.png'
     },
     {
         title: 'Design',
-        img: '/assets/images/illustrations/project2.png'
+        img: '/assets/images/project/project2.png'
     },
     {
         title: 'Data Visualization',
-        img: '/assets/images/illustrations/project3.png'
+        img: '/assets/images/project/project3.png'
     },
     {
         title: 'Culture',
-        img: '/assets/images/illustrations/project4.png'
+        img: '/assets/images/project/project4.png'
     },
 ]
