@@ -6,10 +6,14 @@ Starting from summer 2021, My friend and I began to build Employeefind, a platfo
 
 ## Preview
 
-![Website Screenshoot](public/assets/images/preview/preview1.png)
-![Website Screenshoot](public/assets/images/preview/preview2.png)
+1. home page
+   <br/><br/>
+   ![Website Screenshoot](public/assets/images/preview/preview1.png)
+   <br/><br/>
+2. user profile page
+   ![Website Screenshoot](public/assets/images/preview/preview2.png)
 
-## ## Development
+## Development
 
 1. download all necessary npm packages
 
